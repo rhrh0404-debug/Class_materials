@@ -700,3 +700,5 @@ print("회전수 중앙값 : ", round(np.median(rpm_array), (1)))
 print("회전수 분산 : ", round(rpm_array.var(), (1)))
 print("회전수 표준편차 : ", round(rpm_array.std(), (1)))
 print(rpm_array.min(), rpm_array.max())  # 최솟값 : 58, 최댓값 : 4987
+
+print("8월 6일도 고생했다!!!")
